@@ -1,4 +1,4 @@
-### Customer Churn Analysis and Prediction
+# Customer Churn Analysis and Prediction
 
 ## Analysis by Demographics
 <img width="1358" height="707" alt="Screenshot 2026-09-16 020548" src="https://github.com/user-attachments/assets/9d086cb9-bee7-4843-86d9-5d5a29416169" />
